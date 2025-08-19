@@ -14,3 +14,8 @@ Khalilimeybodi A, Paap AM, Christiansen SLM, Saucerman JJ.
 PLoS Comput Biol. 2020 Dec 18;16(12):e1008490.
 https://github.com/mkm1712/Morris_Sensitivity_Analysis
 https://github.com/mkm1712/Structural-Revision
+
+Multiscale Coupling of an Agent-Based Model of Tissue Fibrosis and a Logic-Based Model of Intracellular Signaling.
+Rikard SM, Athey TL, Nelson AR, Christiansen SLM, Lee JJ, Holmes JW, Peirce SM, Saucerman JJ.
+Front Physiol. 2019 Dec 17;10:1481. 
+https://github.com/uva-peirce-cottler-lab/AMFAC
